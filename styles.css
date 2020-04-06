@@ -23,7 +23,7 @@ body {
 
 /* HEADER  */
 .header-main {
-  overflow: auto;
+  overflow: hidden;
   position: relative;
   text-align:left;
   height: 500px;
