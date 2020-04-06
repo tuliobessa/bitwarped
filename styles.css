@@ -56,7 +56,7 @@ h2{
 
 /* Search Bar */
 .template-section{
-  background-color: #e1e8ff;
+  background-color: #eaeffe;
   padding-bottom: 3%;
   padding-top: 3%;
   text-align: center;
@@ -188,14 +188,15 @@ color: black;
 /* CONTACT FORM */
 
 #contact-form{
-	background-color: #FFFDDB;
+	background-color: #eaeffe;
 	text-align: center;
 padding: 7% 0;
-height: 600px;
+height: 700px;
 
 }
 #contact-form h2{
 	letter-spacing: 5px;
+  margin-bottom: 20px;
 }
 .wrapper{
   box-sizing: border-box;
@@ -207,7 +208,7 @@ margin:auto;
 	background: #fff;
 	padding: 25px;
 	border-radius: 5px;
-	box-shadow: 4px 4px 2px rgba(254,236,164,1);
+	  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
 
 }
 
@@ -234,13 +235,14 @@ margin:auto;
 	margin-top: 15px;
 	padding: 10px;
 	width: 100%;
-	background: #fece0c;
-	color: #333902;
+	background: #6689ff;
+	color: white;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-weight: bold;
 	border-radius: 25px;
 	cursor: pointer;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
 }
 .wrapper #error_message{
 	margin-bottom: 20px;
