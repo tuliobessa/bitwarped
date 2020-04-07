@@ -179,6 +179,34 @@ ul#wrapper2 {
 
 }
 
+
+/* TUTORIALS */
+
+.tutorials{
+  display: flex;
+  height: 500px;
+  margin-bottom: 3%;
+}
+.box3{
+  flex:1;
+  background-image: url(images/tutorial.jpg);
+  background-size: cover;
+}
+.box4{
+  flex:1;
+  padding-top: 40px;
+}
+.box4 h2{
+  font-size: 50px;
+  text-align: right;
+}
+.box4 h3{
+  text-align: right;
+  padding-top: 20px;
+}
+.box4 .button{
+  float:right;
+}
 /* FOOTER */
 #contact{
   text-align: center;
